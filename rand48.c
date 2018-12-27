@@ -1,4 +1,8 @@
-﻿#include "rand48.h"
+﻿/**
+ *	rand48 乱数
+ */
+
+#include "rand48.h"
 
 #include <stdlib.h>
 

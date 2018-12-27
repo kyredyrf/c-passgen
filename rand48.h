@@ -1,4 +1,8 @@
-﻿#ifndef include_rand48_h
+﻿/**
+ *	rand48 乱数
+ */
+
+#ifndef include_rand48_h
 #define include_rand48_h
 
 #include <stdint.h>
